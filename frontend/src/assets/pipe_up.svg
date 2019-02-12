@@ -1,0 +1,106 @@
+<svg version="1.1" id="pipe_up"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" width="24px" height="215px" viewBox="0 0 24 370" enable-background="new 0 0 24 370" xml:space="preserve">
+    <linearGradient id="pipe3_1_" gradientUnits="userSpaceOnUse" x1="12.9995" y1="195.998" x2="12.9995" y2="171.998" gradientTransform="matrix(2.048910e-007 1 -1 0 195.9995 172)">
+        <stop offset="0" style="stop-color:#666666;stop-opacity:0.9" />
+        <stop offset="0.5352" style="stop-color:#E6E6E6;stop-opacity:0" />
+        <stop offset="1" style="stop-color:#666666;stop-opacity:0.8" />
+        <a:midPointStop offset="0" style="stop-color:#666666;stop-opacity:0.9" />
+        <a:midPointStop offset="0.5" style="stop-color:#666666;stop-opacity:0.9" />
+        <a:midPointStop offset="0.5352" style="stop-color:#E6E6E6;stop-opacity:0" />
+        <a:midPointStop offset="0.5" style="stop-color:#E6E6E6;stop-opacity:0" />
+        <a:midPointStop offset="1" style="stop-color:#666666;stop-opacity:0.8" />
+    </linearGradient>
+    <rect id="pipe3" fill="url(#pipe3_1_)" width="24" height="370" />
+    <g id="u1">
+        <ellipse opacity="0.6" fill="#00A89C" cx="16.572" cy="11.449" rx="3.478" ry="3.277" />
+        <ellipse opacity="0.5" fill="#0071BB" cx="9.121" cy="31.046" rx="3.478" ry="3.277" />
+        <ellipse opacity="0.6" fill="#0071BB" cx="8.31" cy="75.385" rx="3.478" ry="3.277" />
+        <ellipse opacity="0.7" fill="#33B9EB" cx="16.485" cy="98.147" rx="3.478" ry="3.277" />
+        <ellipse opacity="0.8" fill="#00B2E9" cx="15.352" cy="51.425" rx="3.477" ry="3.277" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="15.352" cy="10.327" rx="0.695" ry="0.655" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="7.614" cy="29.735" rx="0.695" ry="0.655" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="7.291" cy="74.399" rx="0.695" ry="0.656" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="16.2" cy="96.506" rx="0.695" ry="0.656" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="13.717" cy="50.173" rx="0.696" ry="0.656" />
+    </g>
+    <g id="u2">
+        <ellipse opacity="0.6" fill="#00A89C" cx="7.313" cy="127.901" rx="3.479" ry="3.277" />
+        <ellipse opacity="0.5" fill="#0071BB" cx="14.764" cy="146.365" rx="3.479" ry="3.277" />
+        <ellipse opacity="0.6" fill="#0071BB" cx="15.574" cy="190.705" rx="3.478" ry="3.277" />
+        <ellipse opacity="0.7" fill="#33B9EB" cx="7.398" cy="214.598" rx="3.477" ry="3.277" />
+        <ellipse opacity="0.8" fill="#00B2E9" cx="8.533" cy="167.876" rx="3.479" ry="3.277" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="8.532" cy="126.779" rx="0.696" ry="0.655" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="16.271" cy="145.055" rx="0.696" ry="0.656" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="16.594" cy="189.719" rx="0.695" ry="0.656" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="7.684" cy="212.958" rx="0.695" ry="0.656" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="10.166" cy="166.624" rx="0.695" ry="0.656" />
+    </g>
+    <g id="u3">
+        <ellipse opacity="0.6" fill="#00A89C" cx="16.163" cy="245.225" rx="3.478" ry="3.277" />
+        <ellipse opacity="0.5" fill="#0071BB" cx="8.712" cy="264.821" rx="3.478" ry="3.277" />
+        <ellipse opacity="0.6" fill="#0071BB" cx="7.901" cy="309.16" rx="3.478" ry="3.277" />
+        <ellipse opacity="0.7" fill="#33B9EB" cx="16.077" cy="331.922" rx="3.477" ry="3.277" />
+        <ellipse opacity="0.8" fill="#00B2E9" cx="14.942" cy="285.2" rx="3.479" ry="3.277" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="14.943" cy="244.103" rx="0.695" ry="0.655" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="7.205" cy="263.51" rx="0.696" ry="0.655" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="6.882" cy="308.174" rx="0.695" ry="0.656" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="15.791" cy="330.281" rx="0.695" ry="0.655" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="13.309" cy="283.948" rx="0.695" ry="0.655" />
+    </g>
+    <g id="u4">
+        <ellipse opacity="0.6" fill="#00A89C" cx="8.469" cy="357.244" rx="3.479" ry="3.277" />
+        <ellipse opacity="0.9" fill="#FFFFFF" cx="9.688" cy="356.122" rx="0.695" ry="0.655" />
+    </g>
+    <style>
+    #u4 {
+        animation: move1_15 4.9s linear infinite;
+    }
+    
+    @keyframes move1_15 {
+        85% {
+            transform: translate(0px, -350px);
+        }
+        85.1% {
+            transform: translate(0px, 50px);
+        }
+    }
+    
+    #u3 {
+        animation: move2_15 5s linear infinite;
+    }
+    
+    @keyframes move2_15 {
+        50% {
+            transform: translate(0px, -230px);
+        }
+        50.1% {
+            transform: translate(0px, 330px);
+        }
+    }
+    
+    #u2 {
+        animation: move3_15 4.9s linear infinite;
+    }
+    
+    @keyframes move3_15 {
+        45% {
+            transform: translate(0px, -160px);
+        }
+        45.1% {
+            transform: translate(0px, 330px);
+        }
+    }
+    
+    #u1 {
+        animation: move4_15 4.9s linear infinite;
+    }
+    
+    @keyframes move4_15 {
+        20% {
+            transform: translate(0px, -100px);
+        }
+        20.1% {
+            transform: translate(0px, 330px);
+        }
+    }
+    </style>
+</svg>

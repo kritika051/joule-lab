@@ -1,0 +1,139 @@
+<svg version="1.1" id="pipe_left_ahu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" width="544px" height="22px" viewBox="0 0 544 22" enable-background="new 0 0 544 22" xml:space="preserve">
+    <linearGradient id="pipe4_2_" gradientUnits="userSpaceOnUse" x1="272.0005" y1="22" x2="272.0005" y2="4.882813e-004">
+        <stop offset="0" style="stop-color:#005B96;stop-opacity:0.9" />
+        <stop offset="0.5352" style="stop-color:#1E9BD6;stop-opacity:0.1" />
+        <stop offset="0.9624" style="stop-color:#047BC1;stop-opacity:0.9" />
+        <stop offset="1" style="stop-color:#0278BF;stop-opacity:0.8" />
+        <a:midPointStop offset="0" style="stop-color:#005B96;stop-opacity:0.9" />
+        <a:midPointStop offset="0.5" style="stop-color:#005B96;stop-opacity:0.9" />
+        <a:midPointStop offset="0.5352" style="stop-color:#1E9BD6;stop-opacity:0.1" />
+        <a:midPointStop offset="0.5" style="stop-color:#1E9BD6;stop-opacity:0.1" />
+        <a:midPointStop offset="0.9624" style="stop-color:#047BC1;stop-opacity:0.9" />
+        <a:midPointStop offset="0.5" style="stop-color:#047BC1;stop-opacity:0.9" />
+        <a:midPointStop offset="1" style="stop-color:#0278BF;stop-opacity:0.8" />
+    </linearGradient>
+    <rect id="pipe4_2" fill="url(#pipe4_2_)" width="544" height="22" />
+    <g id="l1_2">
+        <circle opacity="0.6" fill="#00A89C" cx="10.614" cy="7.214" r="3.101" />
+        <circle opacity="0.5" fill="#0071BB" cx="29.155" cy="13.857" r="3.101" />
+        <circle opacity="0.6" fill="#0071BB" cx="71.106" cy="14.581" r="3.101" />
+        <circle opacity="0.7" fill="#33B9EB" cx="92.643" cy="7.292" r="3.101" />
+        <circle opacity="0.8" fill="#00B2E9" cx="48.437" cy="8.302" r="3.101" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="9.552" cy="8.302" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="27.915" cy="15.201" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="70.174" cy="15.49" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="91.09" cy="7.546" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="47.252" cy="9.759" r="0.62" />
+    </g>
+    <g id="l2_2">
+        <circle opacity="0.6" fill="#00A89C" cx="120.794" cy="15.472" r="3.101" />
+        <circle opacity="0.5" fill="#0071BB" cx="138.264" cy="8.827" r="3.101" />
+        <circle opacity="0.6" fill="#0071BB" cx="180.216" cy="8.104" r="3.101" />
+        <circle opacity="0.7" fill="#33B9EB" cx="202.822" cy="15.394" r="3.101" />
+        <circle opacity="0.8" fill="#00B2E9" cx="158.616" cy="14.383" r="3.101" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="119.732" cy="14.383" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="137.024" cy="7.483" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="179.283" cy="7.195" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="201.27" cy="15.139" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="157.432" cy="12.926" r="0.62" />
+    </g>
+    <g id="l3_2">
+        <circle opacity="0.6" fill="#00A89C" cx="231.799" cy="7.578" r="3.101" />
+        <circle opacity="0.5" fill="#0071BB" cx="250.34" cy="14.223" r="3.101" />
+        <circle opacity="0.6" fill="#0071BB" cx="292.292" cy="14.946" r="3.101" />
+        <circle opacity="0.7" fill="#33B9EB" cx="313.827" cy="7.656" r="3.101" />
+        <circle opacity="0.8" fill="#00B2E9" cx="269.622" cy="8.667" r="3.101" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="230.738" cy="8.667" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="249.1" cy="15.566" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="291.359" cy="15.855" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="312.275" cy="7.911" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="268.438" cy="10.125" r="0.62" />
+    </g>
+    <g id="l4_2">
+        <circle opacity="0.6" fill="#00A89C" cx="344.995" cy="14.946" r="3.101" />
+        <circle opacity="0.5" fill="#0071BB" cx="362.466" cy="8.302" r="3.101" />
+        <circle opacity="0.6" fill="#0071BB" cx="404.417" cy="7.579" r="3.101" />
+        <circle opacity="0.7" fill="#33B9EB" cx="427.023" cy="14.868" r="3.101" />
+        <circle opacity="0.8" fill="#00B2E9" cx="382.817" cy="13.857" r="3.101" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="343.933" cy="13.857" r="0.621" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="361.225" cy="6.958" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="403.484" cy="6.67" r="0.621" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="425.471" cy="14.614" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="381.633" cy="12.4" r="0.621" />
+    </g>
+    <g id="l5_2">
+        <circle opacity="0.6" fill="#00A89C" cx="450.674" cy="7.578" r="3.101" />
+        <circle opacity="0.5" fill="#0071BB" cx="469.216" cy="14.223" r="3.101" />
+        <circle opacity="0.6" fill="#0071BB" cx="512.179" cy="13.443" r="3.101" />
+        <circle opacity="0.7" fill="#33B9EB" cx="532.703" cy="7.656" r="3.101" />
+        <circle opacity="0.8" fill="#00B2E9" cx="488.496" cy="8.667" r="3.101" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="449.612" cy="8.667" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="467.975" cy="15.566" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="511.247" cy="14.352" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="531.15" cy="7.911" r="0.62" />
+        <circle opacity="0.9" fill="#FFFFFF" cx="487.313" cy="10.125" r="0.62" />
+    </g>
+    <style>
+    #l5_2 {
+        animation: move1_8 3s linear infinite;
+    }
+    
+    @keyframes move1_8 {
+        100% {
+            transform: translate(-480px, 0px);
+        }
+    }
+    
+    #l4_2 {
+        animation: move2_8 5s linear infinite;
+    }
+    
+    @keyframes move2_8 {
+        50% {
+            transform: translate(-450px, 0px);
+        }
+        50.1% {
+            transform: translate(450px, 0px);
+        }
+    }
+    
+    #l3_2 {
+        animation: move3_8 4.8s linear infinite;
+    }
+    
+    @keyframes move3_8 {
+        48% {
+            transform: translate(-300px, 0px);
+        }
+        48.1% {
+            transform: translate(350px, 0px);
+        }
+    }
+    
+    #l2_2 {
+        animation: move4_8 5s linear infinite;
+    }
+    
+    @keyframes move4_8 {
+        30% {
+            transform: translate(-190px, 0px);
+        }
+        30.1% {
+            transform: translate(450px, 0px);
+        }
+    }
+    
+    #l1_2 {
+        animation: move5_8 4.5s linear infinite;
+    }
+    
+    @keyframes move5_8 {
+        20% {
+            transform: translate(-90px, 0px);
+        }
+        20.1% {
+            transform: translate(450px, 0px);
+        }
+    }
+    </style>
+</svg>
